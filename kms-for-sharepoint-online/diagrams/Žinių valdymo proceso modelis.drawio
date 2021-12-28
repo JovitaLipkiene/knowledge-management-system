@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T16:50:46.955Z" agent="5.0 (Windows)" etag="RuTCipvK-gL6IXeZHO_G" version="15.4.3" type="github"><diagram id="Y50ueUHJvU8KrY92YIi9" name="Page-1">ddHBDoMgDADQr+GOMhfvzm0XTx52JtIJCVqDLLp9/TTAHHE7Aa8tJYWwopsvhg+yQgGapFTMhJ1ImiaU5cuyytNJdjw4aI0SPmmDWr0gVHp9KAFjlGgRtVVDjA32PTQ2Mm4MTnHaHXXcdeAt7KBuuN7rTQkrneYZ3fwKqpWhc0J9pOMh2cMoucDpi1hJWGEQrdt1cwF6HV6Yi6s7/4l+Hmagtz8Kls1293KIfoiVbw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-28T20:19:20.294Z" agent="5.0 (Windows)" etag="qDJFIi08ENRbrHA3y94h" version="15.4.3" type="github">
+  <diagram id="Y50ueUHJvU8KrY92YIi9" name="Page-1">
+    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-tpn3ncTM-MRgxJ6PAO5-1" value="&amp;lt;&amp;lt;sistema&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Organizacija&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="50" width="300" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="-tpn3ncTM-MRgxJ6PAO5-3" value="icon" style="ellipse;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-tpn3ncTM-MRgxJ6PAO5-5" value="Darbuotojas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-tpn3ncTM-MRgxJ6PAO5-11" value="Konsultantas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="40" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
